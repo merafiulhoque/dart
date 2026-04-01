@@ -3,6 +3,6 @@ void main(){
   List? c;
   List b = [...a, 8, ...?c];
   
-
+  print(b);
   
 }
